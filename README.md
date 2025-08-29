@@ -1,12 +1,5 @@
 # desafio-ciencia-de-dados-imdb
 
-# 🎬 Desafio Ciência de Dados - Previsão de Nota IMDb
-
-Este projeto foi desenvolvido como parte do processo seletivo para **Trainee em Ciência de Dados**.  
-O objetivo foi analisar um conjunto de dados de filmes e criar um modelo simples capaz de **prever a nota IMDb** de um filme a partir de informações como `Meta_score`, `No_of_Votes` e `Runtime`.
-
----
-
 ## Objetivo do projeto
 Analisar uma base de dados de filmes do IMDb para entender quais fatores influenciam seu sucesso, como faturamento e notas do público, além de criar um modelo para prever a nota do filme de exemplo.
 
