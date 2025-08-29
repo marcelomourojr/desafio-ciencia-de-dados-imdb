@@ -5,14 +5,20 @@ Analisar uma base de dados de filmes do IMDb para entender quais fatores influen
 
 ---
 
-## Tecnologias e Bibliotecas
-- [Python 3](https://www.python.org/)
-- [Pandas](https://pandas.pydata.org/)
-- [NumPy](https://numpy.org/)
-- [Seaborn](https://seaborn.pydata.org/)
-- [Matplotlib](https://matplotlib.org/)
-- [Scikit-Learn](https://scikit-learn.org/stable/)
-- [Joblib](https://joblib.readthedocs.io/)
+## 🛠️ Tecnologias e Bibliotecas
+Linguagem: Python 3
+
+Bibliotecas:
+
+Pandas
+
+NumPy
+
+Seaborn e Matplotlib (para visualização de dados)
+
+Scikit-Learn (para machine learning)
+
+Joblib (para salvar o modelo)
 
 ---
 
