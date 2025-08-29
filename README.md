@@ -16,7 +16,8 @@ Analisar uma base de dados de filmes do IMDb para entender quais fatores influen
 
 ---
 
-## 📁 Estrutura do Projeto
+## 📂 Estrutura do Projeto
+```text
 ├── Desafio Indicium IMDB.csv   # Base de dados
 ├── imdb_rating_model.pkl       # Modelo salvo
 ├── notebook.ipynb              # Notebook com o código
@@ -26,14 +27,16 @@ Analisar uma base de dados de filmes do IMDb para entender quais fatores influen
 ---
 
 ## ▶️ Como Executar o Projeto
-1 -  **Clonar o repositório:**
+
+1. **Clonar o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/desafio-imdb.git
-   cd desafio-imdb
+   git clone https://github.com/seu-usuario/desafio-ciencia-de-dados-imdb.git
+   cd desafio-ciencia-de-dados-imdb
 
-2 - **Instalar dependências:**
-   pip install -r requirements.txt
+2.	Instalar dependências:
 
-3 -	**Abrir o Notebook:**
+pip install -r requirements.txt
+
+3.	Abrir o Notebook:
 	•	No Google Colab: Fazer upload do arquivo .ipynb.
-	•	Ou rodar localmente com Jupyter Notebook.
+	•	Ou rodar localmente usando Jupyter Notebook.
