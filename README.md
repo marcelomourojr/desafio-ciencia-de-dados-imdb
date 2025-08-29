@@ -23,7 +23,7 @@ Analisar uma base de dados de filmes do IMDb para entender quais fatores influen
 ├── notebook.ipynb              # Notebook com o código
 ├── requirements.txt            # Dependências do projeto
 └── README.md                   # Documentação do projeto
-
+```
 ---
 
 ## ▶️ Como Executar o Projeto
@@ -34,8 +34,8 @@ Analisar uma base de dados de filmes do IMDb para entender quais fatores influen
    cd desafio-ciencia-de-dados-imdb
 
 2.	Instalar dependências:
-
-pip install -r requirements.txt
+   	```bash
+	pip install -r requirements.txt
 
 3.	Abrir o Notebook:
 	•	No Google Colab: Fazer upload do arquivo .ipynb.
