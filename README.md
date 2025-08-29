@@ -30,7 +30,7 @@ Analisar uma base de dados de filmes do IMDb para entender quais fatores influen
 
 1. **Clonar o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/desafio-ciencia-de-dados-imdb.git
+   git clone https://github.com/marcelomourojr/desafio-ciencia-de-dados-imdb.git
    cd desafio-ciencia-de-dados-imdb
 
 2.	Instalar dependências:
