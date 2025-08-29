@@ -38,5 +38,6 @@ Analisar uma base de dados de filmes do IMDb para entender quais fatores influen
 	pip install -r requirements.txt
 
 3.	Abrir o Notebook:
+   
 	•	No Google Colab: Fazer upload do arquivo .ipynb.
 	•	Ou rodar localmente usando Jupyter Notebook.
