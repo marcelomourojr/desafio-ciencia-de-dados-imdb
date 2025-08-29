@@ -18,10 +18,10 @@ Analisar uma base de dados de filmes do IMDb para entender quais fatores influen
 
 ## 📂 Estrutura do Projeto
 ```text
-├── Desafio Indicium IMDB.csv   # Base de dados
-├── imdb_rating_model.pkl       # Modelo salvo
-├── notebook.ipynb              # Notebook com o código
-├── requirements.txt            # Dependências do projeto
+├── Desafio Indicium IMDB.csv   # Base de dados  
+├── imdb_rating_model.pkl       # Modelo salvo  
+├── notebook.ipynb              # Notebook com o código  
+├── requirements.txt            # Dependências do projeto  
 └── README.md                   # Documentação do projeto
 ```
 ---
@@ -39,7 +39,7 @@ Analisar uma base de dados de filmes do IMDb para entender quais fatores influen
 
 3.	Abrir o Notebook:
 
-	•	No Google Colab:
-Fazer upload do arquivo notebook.ipynb e do arquivo Desafio Indicium IMDB.csv antes de rodar as células.
-	•	Localmente (Jupyter Notebook/Lab):
+	•	No Google Colab: <br> 
+Fazer upload do arquivo notebook.ipynb e do arquivo Desafio Indicium IMDB.csv antes de rodar as células.<br> 
+	•	Localmente (Jupyter Notebook/Lab):<br> 
 Rodar o notebook diretamente, pois o CSV já estará na pasta do projeto.
