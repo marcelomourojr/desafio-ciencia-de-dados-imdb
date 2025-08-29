@@ -38,6 +38,8 @@ Analisar uma base de dados de filmes do IMDb para entender quais fatores influen
 	pip install -r requirements.txt
 
 3.	Abrir o Notebook:
-   
-	•	No Google Colab: Fazer upload do arquivo .ipynb.
-	•	Ou rodar localmente usando Jupyter Notebook.
+
+	•	No Google Colab:
+Fazer upload do arquivo notebook.ipynb e do arquivo Desafio Indicium IMDB.csv antes de rodar as células.
+	•	Localmente (Jupyter Notebook/Lab):
+Rodar o notebook diretamente, pois o CSV já estará na pasta do projeto.
