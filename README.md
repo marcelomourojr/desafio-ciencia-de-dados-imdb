@@ -7,17 +7,12 @@ O objetivo foi analisar um conjunto de dados de filmes e criar um modelo simples
 
 ---
 
-## 🚀 Objetivos do Projeto
-- Analisar dados de filmes com **Análise Exploratória de Dados (EDA)**.
-- Identificar fatores relacionados ao **faturamento (Gross)**.
-- Explorar a coluna `Overview` e entender como o texto pode ajudar na classificação de gênero.
-- Criar um **modelo preditivo** para prever a nota IMDb de filmes.
-- Testar o modelo com o exemplo do filme *The Shawshank Redemption*.
-- Salvar o modelo treinado no formato `.pkl`.
+## Objetivo do projeto
+Analisar uma base de dados de filmes do IMDb para entender quais fatores influenciam seu sucesso, como faturamento e notas do público, além de criar um modelo para prever a nota do filme de exemplo.
 
 ---
 
-## 🛠️ Tecnologias e Bibliotecas
+## Tecnologias e Bibliotecas
 - [Python 3](https://www.python.org/)
 - [Pandas](https://pandas.pydata.org/)
 - [NumPy](https://numpy.org/)
@@ -25,14 +20,6 @@ O objetivo foi analisar um conjunto de dados de filmes e criar um modelo simples
 - [Matplotlib](https://matplotlib.org/)
 - [Scikit-Learn](https://scikit-learn.org/stable/)
 - [Joblib](https://joblib.readthedocs.io/)
-
----
-
-## 📊 Principais Resultados
-- A **nota IMDb** pôde ser prevista com boa precisão (MAE ≈ 0.19).  
-- O **número de votos** foi o fator mais relacionado ao faturamento.  
-- A coluna `Overview` tem potencial para classificar filmes usando **NLP**.  
-- A previsão para *The Shawshank Redemption* foi **8.86** (próxima da nota real de 9.3).  
 
 ---
 
