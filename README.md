@@ -17,12 +17,12 @@ Analisar uma base de dados de filmes do IMDb para entender quais fatores influen
 ---
 
 ## 📂 Estrutura do Projeto
+
 ```text
-├── Desafio Indicium IMDB.csv   # Base de dados
-├── imdb_rating_model.pkl       # Modelo salvo
-├── notebook.ipynb              # Notebook com o código
-├── requirements.txt            # Dependências do projeto
-└── README.md                   # Documentação do projeto
+├── LH CD Marcelo Augusto Mouro Junior.ipynb   # Notebook com o código e análises
+├── Modelo de Avaliação IMDB.pkl              # Modelo treinado salvo
+├── README.md                                 # Documentação do projeto
+└── requirements.txt                          # Dependências do projeto
 ```
 ---
 
