@@ -26,6 +26,55 @@ Analisar uma base de dados de filmes do IMDb para entender quais fatores influen
 ```
 ---
 
+## 📊 Resultados e Respostas
+
+1. **Análise Exploratória dos Dados (EDA)**  
+   Foram analisadas as principais características do dataset, identificando correlações entre variáveis, padrões de faturamento e notas.  
+   Destaque para:
+   - Relação entre **número de votos** e **faturamento**: filmes com maior engajamento tendem a faturar mais.
+   - Distribuição de notas do IMDb concentrada entre 6 e 8.
+   - Insights de palavras-chave na sinopse (Overview) para identificação de gênero.
+
+---
+
+2. **Respostas às Perguntas:**
+
+**a) Qual filme você recomendaria para uma pessoa que você não conhece?**  
+🎬 *The Shawshank Redemption* (Nota IMDb: **9.3**)
+
+---
+
+**b) Quais são os principais fatores relacionados com alta expectativa de faturamento?**  
+📈 O **número de votos (No_of_Votes)** é o fator com maior correlação positiva com o faturamento.  
+Filmes com grande engajamento do público tendem a gerar maior receita.
+
+---
+
+**c) Quais insights podem ser tirados da coluna Overview?**  
+📖 A sinopse pode ser usada para:
+- Extrair palavras-chave que indiquem o gênero do filme.  
+  Exemplos:
+  - Termos como *"war"*, *"battle"* e *"soldier"* → Filmes de guerra  
+  - Termos como *"love"*, *"romance"* e *"relationship"* → Filmes românticos  
+
+---
+
+3. **Previsão da Nota IMDb**  
+- Tipo de problema: **Regressão**  
+- Variáveis escolhidas: `Meta_score`, `No_of_Votes`, `Runtime`  
+- Modelo: **Regressão Linear** (pela simplicidade e boa interpretabilidade)  
+- Métricas de avaliação:
+  - **MAE (Erro Absoluto Médio)** ≈ 0.19  
+  - **RMSE (Raiz do Erro Quadrático Médio)** ≈ 0.23  
+📊 Resultado: O modelo apresentou **boa precisão** para prever a nota do IMDb.
+
+---
+
+4. **Nota prevista para o filme de exemplo:**  
+🎯 **8.86**
+
+---
+
 ## ▶️ Como Executar o Projeto
 
 1. **Clonar o repositório:**
