@@ -35,15 +35,17 @@ Analisar uma base de dados de filmes do IMDb para entender quais fatores influen
 
 ---
 
+(As respostas estão documentadas também no README para fácil visualização.)
+
 2. **Respostas às Perguntas:**
 
 **a) Qual filme você recomendaria para uma pessoa que você não conhece?**  
-🎬 *The Shawshank Redemption* (Nota IMDb: **9.3**) Eu recomendaria o filme com a maior nota
+🎬 *The Godfather* (Nota IMDb: **9.2**) Eu recomendaria o filme com a maior nota
 
 ---
 
 **b) Quais são os principais fatores relacionados com alta expectativa de faturamento?**  
-📈 O principal fator está relacionado ao número de votos, quanto maior o número de votos, naturalmente será maior o faturamento
+📈 O principal fator está relacionado ao número de votos, quanto maior o número de votos, naturalmente será maior o faturamento.
 
 ---
 
