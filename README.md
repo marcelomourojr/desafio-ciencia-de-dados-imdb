@@ -20,8 +20,8 @@ Analisar uma base de dados de filmes do IMDb para entender quais fatores influen
 
 ```text
 ├── LH CD Marcelo Augusto Mouro Junior.ipynb   # Notebook com o código e análises
-├── README.md                                 # Documentação do projeto
 ├── Modelo de Avaliação IMDB.pkl              # Modelo treinado salvo
+├── README.md                                 # Documentação do projeto
 └── requirements.txt                          # Dependências do projeto
 ```
 ---
